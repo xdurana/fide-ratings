@@ -1,0 +1,17 @@
+language: python
+
+python:
+  - 3.6
+
+sudo: required
+
+services:
+  - docker
+
+before_script:
+  - pip install requests
+
+script:
+  - docker-compose up -d web
+  - docker-compose ps
+  - pytest
