@@ -31,6 +31,9 @@ ENV STATIC_INDEX 0
 COPY ./app /app
 WORKDIR /app
 
+# To compile numpy
+RUN apk add make automake gcc g++ subversion python3-dev
+
 COPY requirements.txt /app/requirements.txt
 RUN pip install -r requirements.txt
 
