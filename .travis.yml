@@ -10,8 +10,13 @@ services:
 
 before_script:
   - pip install requests
+  - pip install codecov
+  - pip install pytest pytest-cov
+
+env:
+  - CODECOV_TOKEN="56acb56f-bfd0-485a-b0bd-158c6808bf41"
 
 script:
   - docker-compose up -d web
   - docker-compose ps
-  - pytest
+  - pytest --cov=./

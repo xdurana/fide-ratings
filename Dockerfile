@@ -1,8 +1,6 @@
-FROM tiangolo/uwsgi-nginx:python3.7-alpine3.8
+FROM xdurana/alpine-flask-pandas:latest
 
-LABEL maintainer="Sebastian Ramirez <tiangolo@gmail.com>"
-
-RUN pip install flask
+LABEL maintainer="Xavier Duran <xavier.duran@gmail.com>"
 
 # By default, allow unlimited file sizes, modify it to limit the file sizes
 # To have a maximum of 1 MB (Nginx's default) change the line to:
@@ -30,9 +28,6 @@ ENV STATIC_INDEX 0
 # Add demo app
 COPY ./app /app
 WORKDIR /app
-
-# To compile numpy
-RUN apk add make automake gcc g++ subversion python3-dev
 
 COPY requirements.txt /app/requirements.txt
 RUN pip install -r requirements.txt
