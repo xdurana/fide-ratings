@@ -8,6 +8,7 @@ services:
     environment:
       - FLASK_APP=app
       - FLASK_DEBUG=1
-    command: (cd app; flask run --port=5000)
+    network_mode: "host"
+    command: flask run --port=5000
     # Infinite loop, to keep it alive, for debugging
     # command: /bin/ash -c "while true; do echo 'sleeping...' && sleep 10; done"

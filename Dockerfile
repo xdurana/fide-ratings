@@ -1,6 +1,8 @@
-FROM xdurana/alpine-flask-pandas:latest
+FROM tiangolo/uwsgi-nginx:python3.7
 
-LABEL maintainer="Xavier Duran <xavier.duran@gmail.com>"
+LABEL maintainer="Sebastian Ramirez <tiangolo@gmail.com>"
+
+RUN pip install flask
 
 # By default, allow unlimited file sizes, modify it to limit the file sizes
 # To have a maximum of 1 MB (Nginx's default) change the line to:
@@ -25,15 +27,15 @@ ENV STATIC_PATH /app/static
 # ENV STATIC_INDEX 1
 ENV STATIC_INDEX 0
 
+# Make /app/* available to be imported by Python globally to better support several use cases like Alembic migrations.
+ENV PYTHONPATH=/app
+
 # Add demo app
 COPY ./app /app
 WORKDIR /app
 
 COPY requirements.txt /app/requirements.txt
 RUN pip install -r requirements.txt
-
-# Make /app/* available to be imported by Python globally to better support several use cases like Alembic migrations.
-ENV PYTHONPATH=/app
 
 # Copy start.sh script that will check for a /app/prestart.sh script and run it before starting the app
 COPY start.sh /start.sh
