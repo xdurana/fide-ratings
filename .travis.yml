@@ -1,22 +1,20 @@
 language: python
-
 python:
-  - 3.6
-
+- 3.6
 sudo: required
-
 services:
-  - docker
-
+- docker
 before_script:
-  - pip install requests
-  - pip install codecov
-  - pip install pytest pytest-cov
-
+- pip install requests
+- pip install codecov
+- pip install pytest pytest-cov
 env:
-  - CODECOV_TOKEN="56acb56f-bfd0-485a-b0bd-158c6808bf41"
-
+- CODECOV_TOKEN="56acb56f-bfd0-485a-b0bd-158c6808bf41"
 script:
-  - docker-compose up -d web
-  - docker-compose ps
-  - pytest --cov=./
+- docker-compose up -d web
+- docker-compose ps
+- pytest --cov=./
+deploy:
+  provider: heroku
+  api_key:
+    secure: jcYNH3YJ3dIDC8rNYO3K9ECIw6w0b2myrikjWMqvS4RR/yCYw9iikQyNamLq416/MqZHNhCcfrmXjS8Ind78Urgg0JdLPF6EqV/XmVVGZhdOinJmRddK+rZLcyBAr3C0DkzTrsPYLLbd1wN+iyEmRKzCDQnurvHNNDegRhQaj2NmAK4hwPOqq1aIsBoIwGa71Z3wR3dlYz+sK4OVPRXYsy5dDI2ETKJGCdoJZ0kN5xCyBiYUF0vkeRzMgPL00T+XwvWCrTGDd/qagV1DJ7Hco5nf4VWgkjryIst8ljPpi7//LKzPUPhtrA42K/A/fnr4IrocbjgyVga7bGMFnWcXThqI9it6BPxHWoF/On7pKLWCpWhakv3TzEDRnZSuqBVw9VLUmG2rVJkEYhNC0UywF0pjCCjflyPRl33Y5jibaXViduo3wWua11SjaAsGsVwz/ULH2yk2RDxX5glPyOeCezVOwbZjCuAktHc0wPSV0s1eLw+S+KiPvy0gd0Yl6nsjEUJ6zJiEyQKQa6MLoJSiFON0ALeavovEfY0bmB58r9LKp+WnaJ6B1a9bTEzb2wWBbxOsiQVpcyVFJ7LyWig891/J1w3spPmJBDe0vnEEfksKQzMR6q7o/gAy3w18eBEGG5bYCEQTFttyjcYzgaG1+lng8/S0SEpWyQwGPN8tUy8=
