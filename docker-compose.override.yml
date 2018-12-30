@@ -5,11 +5,9 @@ services:
       - ./app:/app
     ports:
       - "5000:5000"
-    environment:
-      - FLASK_APP=app
-      - FLASK_DEBUG=1
+    env_file: .env
     network_mode: "host"
     command: >
       bash -c "flask run --port=5000"
     # Infinite loop, to keep it alive, for debugging
-    # command: /bin/ash -c "while true; do echo 'sleeping...' && sleep 10; done"
+    # command: /bin/bash -c "while true; do echo 'sleeping...' && sleep 10; done"
