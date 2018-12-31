@@ -1,3 +1,6 @@
 flask-restplus>=0.12.1
 pandas>=0.23.4
 gunicorn
+pytest
+pytest-cov
+codecov
