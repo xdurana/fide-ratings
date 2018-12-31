@@ -22,6 +22,9 @@ def create_app(test_config=None):
         # load the test config if passed in
         app.config.from_mapping(test_config)
 
+    print(app.root_path)
+    print(__file__)
+
     RATINGS_FILE = os.path.join(app.root_path, 'data/players.txt')
     app.players = ratings.load_ratings(RATINGS_FILE)
 
