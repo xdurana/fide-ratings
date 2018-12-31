@@ -23,6 +23,7 @@ def create_app(test_config=None):
         app.config.from_mapping(test_config)
 
     print(app.root_path)
+    print(app.instance_path)
     print(__file__)
 
     RATINGS_FILE = os.path.join(app.root_path, 'data/players.txt')
