@@ -23,10 +23,12 @@ def create_app(test_config=None):
         app.config.from_mapping(test_config)
 
     print(app.root_path)
-    print(app.instance_path)
     print(__file__)
 
-    RATINGS_FILE = os.path.join(app.root_path, 'data/players.txt')
+    RATINGS_FILE = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'data/players.txt')
+
+    print(RATINGS_FILE)
+
     app.players = ratings.load_ratings(RATINGS_FILE)
 
     # ensure the instance folder exists
