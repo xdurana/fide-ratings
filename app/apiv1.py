@@ -1,7 +1,7 @@
 from flask import Blueprint
 from flask_restplus import Api
 
-from .apis.players import api as players
+from apis.players import api as players
 
 blueprint = Blueprint('api', __name__, url_prefix='/api')
 api = Api(blueprint,

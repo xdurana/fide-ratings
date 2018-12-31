@@ -1,9 +1,9 @@
 import os
 
 from flask import Flask
-from .apiv1 import blueprint as apiv1
+from apiv1 import blueprint as apiv1
 
-from .models import ratings
+from models import ratings
 
 def create_app(test_config=None):
     # create and configure the app
@@ -22,7 +22,8 @@ def create_app(test_config=None):
         # load the test config if passed in
         app.config.from_mapping(test_config)
 
-    app.players = ratings.load_ratings('data/players.txt')
+    RATINGS_FILE = os.path.join(os.path.dirname(__file__), 'data/players.txt')
+    app.players = ratings.load_ratings(RATINGS_FILE)
 
     # ensure the instance folder exists
     try:
