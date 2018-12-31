@@ -1,0 +1,1000 @@
+ID Number      Name                                                         Fed Sex Tit  WTit OTit           FOA SRtng SGm SK RRtng RGm Rk BRtng BGm BK B-day Flag
+419214                                                                      ENG M                                1736  0   20 1587  10  20              0000      
+469629                                                                      ENG M                                1610  0   40                           0000      
+366127061      , Mayilsamy K                                                FID M                            ACM                                        1982      
+10224084       A B M Hasibuzzaman, Tapan                                    BAN M                                                                       1977      
+25121731       A C J John                                                   IND M                                                                       1987      
+35077023       A Chakravarthy                                               IND M                                1151  0   40                           1986  i   
+10207538       A E M, Doshtagir                                             BAN M                                1840  0   40 1836  0   20 1860  0   20 1974  i   
+5716365        A Hamid, Harman                                              MAS M             NI                 1325  0   40 1593  0   20              1970      
+5765331        A Jailani, Nia Natasha                                       MAS F                                                                       2006  w   
+10207546       A K M Aminul, Islam                                          BAN M                                                                       0000      
+10217916       A K M Arif, Hossain                                          BAN M                                                                       1970      
+10215727       A K M Jane, Alam                                             BAN M                                             1609  0   20              1969      
+10207716       A K M Manjurul, Alam                                         BAN M                                                                       1964      
+10206612       A K M, Sourab                                                BAN M                                1708  0   40                           0000  i   
+5045886        A K, Kalshyan                                                IND M                                1826  0   20                           1964      
+46622110       A Krishna Pranav Reddy                                       IND M                                                                       2003      
+8605360        A La, Teng Hua                                               CHN F                                1915  0   40                           1993  wi  
+10238387       A Q M Salahuddin, Khan                                       BAN M                                1520  0   40                           1977      
+10238530       A R M Shadman , Sakib                                        BAN M                                                                       1995      
+10240080       A R Zahangir, Alam                                           BAN M                                             1943  0   20              1979      
+7109881        A Rafiq                                                      INA M                                                                       1976      
+5786690        A Rahim, Mohd Akmal                                          MAS M                                                                       1984      
+5716373        A Rajah, Abdul Shukor                                        MAS M                                1809  0   40 1999  0   20              0000  i   
+10231447       A S M Khalid, Hasan                                          BAN M                                1585  0   40                           1988  i   
+10236988       A S M Nasimul, Ghani                                         BAN M                                                                       1997      
+21512957       A Totol                                                      FID M                                             1501  0   20              1988      
+366194799      A, Santhosh                                                  FID M                                                                       1984      
+124136061      A, Sergey                                                    FID M                                                                       1988      
+5080444        A, Sohita                                                    IND F                                1447  0   40                           1995  wi  
+5700299        A, Suria, Affendi                                            MAS M                                                                       0000      
+4804929        A-ALI,Sali Abbas Abdulzahra                                  IRQ F   WFM  WFM                     1951  8   40 1692  0   20 1730  0   20 2001  w   
+25049330       A. Amburose, Arokyaraj                                       IND M             FA                                                        1950      
+116293686      A. Eliyan, Ibrahim                                           PLE M                                                                       2007      
+7117884        A. HANIF                                                     INA M                                                                       1990      
+10220518       A. K. M., Kamruzzaman                                        BAN M                                1839  0   20 1879  0   20              1978      
+5007690        A. Md. Imran                                                 IND M                                                                       1996      
+5706068        A. Nashir, Mohd Khairul Nazrin                               MAS M                                1878  0   40                           0000  i   
+5728231        A. Rahman, Nurul Akmal                                       MAS F                                                                       1987  w   
+5757363        A. Rahman, Shafie                                            MAS M                                                                       1991      
+10225889       A. S. M. , Nishat                                            BAN M                                                                       1971      
+5727642        A. Yusuf, Sophian                                            MAS M             IA,FI                                                     1974      
+5754445        A. Zani, Najwa Asysikin                                      MAS F                                                                       2001  w   
+5020832        A., Subramanya                                               IND M                                                                       0000      
+10627383       A.amin, Mohamed                                              EGY M                                                                       1999      
+5700230        A.B, Muhd Yusop                                              MAS M             FI                 1525  0   40 1664  0   20 1528  0   20 1983      
+5732913        A.D, Halleyrie                                               MAS M                                                                       2004      
+10201971       A.f.m., Mahfuzul Haque                                       BAN M                                1607  11  20 1746  0   20              0000      
+10642021       A.fahmy, Hossam                                              EGY M                                                                       2006      
+10627391       A.farag, Amr                                                 EGY M                                                                       1999      
+10642030       A.ibrahem, Ibrahem                                           EGY M                                                                       2007      
+11201037       A.jabbar, Mohammed                                           BRN M                                                                       0000      
+10229159       A.jm.shaheduzzaman, Joni                                     BAN M                                1583  0   40 1574  0   20              1996  i   
+10202650       A.k. Azad, Akand                                             BAN M                                1690  0   40 1714  0   20 1731  0   20 0000      
+10223010       A.k.m, Nayamul Haque                                         BAN M                                1554  0   40                           1973  i   
+10210997       A.K.M. Mehfuz                                                BAN M                                2015  0   40                           0000  i   
+10210849       A.k.m., Mehfuz                                               BAN M                                                                       0000      
+9204571        A.khalifa, Mohamed                                           LBA M                                                                       0000      
+11201177       A.lateef, Ahmad                                              BRN M                                1973  4   40 1977  0   20 1963  0   20 0000      
+11202483       A.lateef, Ahmed Ahmed                                        BRN M                                1254  0   40 1329  0   20 1362  0   20 1996  i   
+11201053       A.lateef, Islam                                              BRN M                                                                       0000      
+11201061       A.lateef, Mahmoud                                            BRN M                                                                       0000      
+11201070       A.lateef, Noor                                               BRN M                                                                       0000      
+10637400       A.mohamed, Abdel Rahman                                      EGY M                                                                       2004      
+10205330       A.s.m. Mehdi, Jabir                                          BAN M                                                                       0000      
+10229450       A.s.m. Nibraz, Monir                                         BAN M                                                                       2004      
+10602917       A.sameeaa, Mohamed H.                                        EGY M                                                                       1961      
+21509484       A.sandigan, Thom                                             PHI M                                             1870  0   20              1972      
+5020859        A.v., Bhaskara Rao                                           IND M                                                                       0000      
+11203722       A.Wahed, Ali                                                 BRN M                                                                       2003      
+7109229        Aa Djoni Kosanda                                             INA M                                1986  0   40                           1953      
+25682938       Aaazad G Acharya                                             IND M                                1341  13  40 1179  0   20              2004      
+24663832       Aab, Manfred                                                 GER M                                1706  0   20                           1963  i   
+9013300        AABADLI YOUSSEF                                              MAR M             SI                                                        1975      
+9010653        Aabadli, Alaa                                                MAR F                                                                       2005  w   
+1444255        Aabank, Dennis Bonet                                         DEN M                                                                       1965      
+42555663       Aabd, Arya                                                   IRI M                                1272  0   40 1279  0   20 1358  0   20 2007      
+11504919       Aabed,mohamad                                                PLE M                                                                       1983      
+42591910       Aabedi, Forsatali                                            IRI M                                             1683  0   20              1989      
+12524662       Aabedi, Saeed                                                IRI M                                                                       0000      
+42538947       Aabedpoor, Maryam                                            IRI F                                                                       1981  w   
+1701991        Aaberg, Anton                                                SWE M   IM                           2356  1   10 2346  0   20              1972      
+1727443        Aaberg, Mikael                                               SWE M                                1326  0   40 1308  0   20              1964  i   
+22569812       Aabestar, Hasan                                              IRI M                                                                       1966      
+25697072       Aabha Kapoor                                                 IND F                                             1179  0   20              1999  w   
+25107364       Aabha Singh                                                  IND F                                                                       2011  w   
+35041967       Aabhas                                                       IND M                                                                       2005      
+25734474       Aabhash Gurung                                               IND M                                                                       2002      
+25033166       Aabid Amin                                                   IND M                                                                       1989      
+25131400       Aabid Anas                                                   IND M                                                                       2007      
+25766945       Aabid Sheeraz                                                IND M                                                                       2007      
+1513966        Aabid, Ryaad                                                 NOR M                                1778  0   20 1713  0   20              1958  i   
+2840383        Aabid, Shukri                                                ISR M                                                                       2007      
+25659375       Aabir Mukherjee                                              IND M                                                                       2004      
+1407589        Aabling-Thomsen, Jakob                                       DEN M   IM                           2380  1   10                           1985      
+45050988       Aachal Naik                                                  IND F                                                                       2000  w   
+25748661       Aadamelli Ramesh                                             IND M                                                                       1992      
+25076760       Aadarsh Agarwala                                             IND M                                                                       2000      
+25069730       Aadarsh Kataria                                              IND M                                                                       2002      
+45051909       Aadarsh Kumar M E                                            IND M                                1413  0   40 1129  0   20              2005      
+25765701       Aadarsh Mishra                                               IND M                                                                       2010      
+25132172       Aadarsh Murugan                                              IND M                                                                       2011      
+25911872       Aadarsh Ravindradas                                          IND M                                                                       2005      
+25639579       Aadarsh Singh                                                IND M                                                                       2008      
+45094586       Aadarsh Sridharan                                            IND M                                1444  0   40 1411  0   20              2004      
+35089218       Aadarsh Suryavanshi                                          IND M                                                                       1997      
+25116126       Aadee Manan Nayak                                            IND M                                                                       2013      
+9009914        Aadel, Mohamed                                               MAR M                                                                       1983      
+42579279       Aadeli, Armin                                                IRI M                                             1358  0   20              2003      
+12524670       Aadeli, Arvin                                                IRI M                                2073  0   20 2033  0   20 1953  0   20 1994      
+32710038       Aadeli, Omid                                                 IRI M                                                                       1997      
+25611003       Aadesh Anand K                                               IND M                                                                       2009      
+25646672       Aadesh Ingale                                                IND M                                1124  0   40 1128  0   20              1990      
+45067961       Aadesh S Naik                                                IND M                                                                       2010      
+35022245       Aadesh Saraf                                                 IND M                                                                       1996      
+9984828        Aadesh, Jeyathevan                                           SRI M                                1035  0   40              1058  0   20 2004      
+25648403       Aadhar Bansal                                                IND M                                1178  0   40                           2006      
+35060481       Aadharsh A                                                   IND M                                                                       1999      
+45013691       Aadharsh C                                                   IND M                                1152  0   40                           2005  i   
+25966103       Aadharshan R                                                 IND M                                                                       2008      
+46616845       Aadharshini K J                                              IND F                                1289  0   40                           2000  wi  
+25709038       Aadharshini R                                                IND F                                                                       2008  w   
+25733621       Aadhav C R                                                   IND M                                                                       2009      
+25940007       Aadhav P                                                     IND M                                                                       2011      
+25656724       Aadhava Sundar                                               IND M                                1050  0   40                           2006  i   
+35085450       Aadhavan Nexon B                                             IND M                                                                       2003      
+45042691       Aadhavan V                                                   IND M                                                                       2003      
+25775600       Aadhesh Nambi                                                IND M                                1236  0   40 1215  5   20 1153  0   20 2009      
+35008390       Aadhi Aadhavan B                                             IND M                                                                       2000      
+46660887       Aadhi Narayanan R N                                          IND M                                                                       2003      
+35071971       Aadhil Biju                                                  IND M                                1550  0   20                           1997  i   
+46634207       Aadhisan Balakrishnan                                        IND M                                1463  0   40 1323  0   20              2002  i   
+25101242       Aadhiseshan K                                                IND M                                                                       2005      
+5827663        Aadhishree, Loganathan                                       SGP F                                                                       2006  w   
+25643568       Aadhisri Prabanchan M S                                      IND M                                                                       2005      
+35031317       Aadhit Saravanan A                                           IND M                                                                       2005      
+25726579       Aadhith C R                                                  IND M                                1201  0   40                           2005      
+25778846       Aadhithan R B                                                IND M                                                                       2009      
+25001590       Aadhithya                                                    IND M                                                                       1999      
+25100181       Aadhithya L                                                  IND M                                                                       2007      
+45002924       Aadhithya Sundaram                                           IND M                                                                       2001      
+25905163       Aadhithyaa Kumar N R                                         IND M                                1131  0   40                           2004      
+25632973       Aadhithyan E                                                 IND M                                                                       2003      
+25906160       Aadhithyan S                                                 IND M                                                                       2002      
+25760262       Aadhitiya M                                                  IND M                                1159  0   40                           2004      
+25010751       Aadhitya A                                                   IND M                                                                       1997      
+35008404       Aadhitya V                                                   IND M                                                                       2001      
+5072662        Aadhityaa, M                                                 IND M                                2061  0   20                           1999      
+46652973       Aadhya Gupta                                                 IND F                                                                       2008  w   
+25917218       Aadhya Hegde                                                 IND F                                                                       2009  w   
+25974068       Aadhya Jain                                                  IND F                                                                       2011  w   
+25990357       Aadhya Lath                                                  IND F                                                                       2009  w   
+25949039       Aadhya Ranjit                                                IND F                                                                       2009  w   
+25914901       Aadhya Vishal Patel                                          IND F                                                                       2011  w   
+25132148       Aadhyansh Saxena                                             IND M                                                                       2010      
+25784781       Aadhyatma Gupta                                              IND M                                                                       2009      
+25789759       Aadi Banthia                                                 IND M                                1061  7   40                           2010      
+25643967       Aadi Bhatter                                                 IND M                                                                       2008      
+25795058       Aadi Dash                                                    IND M                                                                       2006      
+22569820       Aadi Gozal, Mehdi                                            IRI M                                                                       1984      
+25780026       Aadi Idrish                                                  IND M                                                                       2004      
+25749064       Aadi Ramesh                                                  IND M                                                                       2006      
+45077207       Aadi Sekar M                                                 IND M                                                                       1988      
+25902989       Aadi Vij                                                     IND F                                                                       2011  w   
+25668080       Aadikrishnan S                                               IND M                                                                       2006      
+25132903       Aadil Bansal                                                 IND M                                                                       2004      
+25650203       Aadil K V Faisal                                             IND M                                                                       2003      
+25659820       Aadil Khan                                                   IND M                                1315  0   40                           1986  i   
+25676210       Aadil Kumar                                                  IND M                                                                       2006      
+25930303       Aadil Prassun                                                IND M                                                                       2010      
+25128728       Aadinath Harilal                                             IND M                                                                       2010      
+25788965       Aadish D                                                     IND M                                                                       1993      
+25704800       Aadish Jain                                                  IND M                                                                       2004      
+25034677       Aadish S                                                     IND M                                1515  0   20                           1999  i   
+25918257       Aadish Shah                                                  IND M                                1015  0   40                           2010      
+25997270       Aadit Agarwal                                                IND M                                                                       2011      
+25088955       Aadit Bhatia                                                 IND M                                1836  0   40 1808  0   20 1498  0   20 2002      
+25609793       Aadit Rampal                                                 IND M                                                                       2004      
+25070169       Aadit Samnotra                                               IND M                                                                       1996      
+25032690       Aadit Sharma                                                 IND M                                                                       1997      
+25744933       Aadit Shivram                                                IND M                                                                       2009      
+25911961       Aadit Singh                                                  IND M                                                                       2007      
+25695355       Aadith Anusaraj                                              IND M                                                                       2004      
+46695699       Aadith Menon                                                 IND M                                                                       1997      
+46687327       Aadith Pranao                                                IND M                                                                       2004      
+35050362       Aadith R                                                     IND M                                1433  7   40                           2004      
+25703943       Aadith Reddy                                                 IND M                                                                       2003      
+25667297       Aadithiyan C                                                 IND M                                                                       2006      
+35052969       Aadithya J                                                   IND M                                                                       2003      
+25743473       Aadithya K                                                   IND M                                                                       2004      
+25999222       Aadithya Mahadevan                                           IND M                                1128  0   40                           2005      
+25636570       Aadithya Mohan                                               IND M                                                                       2004      
+25656180       Aadithya Pradeep                                             IND M                                1301  0   40                           2005      
+25776371       Aadithya Pradeep                                             IND M                                                                       2011      
+46636218       Aadithya R                                                   IND M                                                                       2002      
+45087571       Aadithya Sumod                                               IND M                                1284  0   40                           2001  i   
+45040850       Aadithya Suresh                                              IND M                                                                       2000      
+25067648       Aadithya V Anand                                             IND M                                                                       2001      
+29908990       Aadithya, K D Shewan Chamath                                 SRI M                                                                       2009      
+5817072        Aadithya, Kumar                                              SGP M                                1168  0   40                           2004  i   
+25908111       Aadithyaa Kumar N R                                          IND M                                                                       1995      
+25696971       Aadithyan Ramesh                                             IND M                                1113  0   40                           1995  i   
+46624252       Aaditi, Rao                                                  IND M                                                                       0000      
+5098785        Aaditiya Vannan M                                            IND M                                                                       1996      
+25757717       Aaditri Singha Roy                                           IND F                                                                       2012  w   
+5086183        Aaditt, M K                                                  IND M                                1595  0   40                           1996  i   
+35061941       Aaditya A                                                    IND M                                1169  6   40                           2006      
+25121790       Aaditya Anand                                                IND M                                                                       2011      
+45050473       Aaditya Ananth                                               IND M                                1083  0   40                           2004  i   
+25659413       Aaditya Ashutosh Ojha                                        IND M                                                                       2006      
+35042017       Aaditya Bedi                                                 IND M                                1074  5   40                           2000      
+35056263       Aaditya Bharadwaj A                                          IND M                                                                       1998      
+25678191       Aaditya Dhingra                                              IND M                                1614  6   40 1577  0   20              2006      
+25721062       Aaditya Garg                                                 IND M                                                                       2004      
+46660879       Aaditya Hari Krishnan                                        IND M                            ACM 1237  0   40 1433  0   20 1299  0   20 2007      
+25083821       Aaditya Jain                                                 IND M                                1273  0   40                           2000  i   
+25784790       Aaditya Jain                                                 IND M                                                                       2005      
+21600570       Aaditya Kailas Bhattbhatt                                    TAN M                                1475  0   40                           2008      
+25933345       Aaditya Kamath                                               IND M                                                                       2004      
+25999834       Aaditya Kizhakke Puttatu Radhakrishnan                       IND M                                                                       2009      
+25721720       Aaditya Lohia                                                IND M                                                                       2007      
+25913280       Aaditya Mishra                                               IND M                                                                       2007      
+25618091       Aaditya Monga                                                IND M                                                                       2007      
+45095108       Aaditya Mukherjee                                            IND M                                                                       2006      
+46628002       Aaditya N Pandya                                             IND M                                1428  0   40                           2000  i   
+25938312       Aaditya Patil                                                IND M                                                                       2012      
+25980394       Aaditya Pratap                                               IND M                                                                       2005      
+45050201       Aaditya R                                                    IND M                                1523  0   40 1324  0   20              2004      
+25742868       Aaditya Rajendra Trivedi                                     IND M                                                                       2004      
+25651080       Aaditya Ramesh                                               IND M                                                                       2006      
+25713051       Aaditya Ranjan                                               IND M                                1337  0   40                           2006      
+25984594       Aaditya Ratan Yati                                           IND M                                                                       2007      
+25991523       Aaditya Rathod                                               IND M                                                                       2007      
+25132946       Aaditya S P                                                  IND M                                                                       2005      
+25704265       Aaditya Satish Chikodi                                       IND M                                                                       2005      
+25978012       Aaditya Shukla                                               IND M                                                                       2006      
+25998870       Aaditya Singla                                               IND M                                                                       2009      
+35057561       Aaditya Suresh                                               IND M                                                                       2001      
+35071980       Aaditya Vignesh P K P                                        IND M                                                                       1995      
+5027942        Aaditya, Jagadeesh                                           IND M                                2072  0   20 1800  0   20 1814  0   20 1998  i   
+25011952       Aadityan G                                                   IND M                                1618  0   40                           2001  i   
+5063485        Aadityan, N.                                                 IND M                                1758  0   20                           1996  i   
+25621114       Aadiya Choudhary                                             IND M                                                                       1991      
+1551370        Aadland, Gabriel                                             NOR M                                             1175  0   20              1994      
+1509012        Aadland, Hans Joachim                                        NOR M                                                                       1991      
+12202339       Aadm Mosad Abdrhman                                          SUD M                                                          1785  0   20 1982      
+1528351        Aadnekvam, Pal                                               NOR M                                             1373  0   20              1969      
+25933477       Aadrit Sarkar                                                IND M                                                                       2009      
+35082558       Aadrito Datta                                                IND M                                1309  0   40 1318  0   20 1288  0   20 2004      
+35049550       Aadya Agarwal                                                IND M                                                                       1997      
+45007683       Aadya Gosain                                                 IND F                                                                       2005  w   
+25778293       Aadya Gupta                                                  IND F                            ACM 1057  0   40 1050  0   20              2010  w   
+46650695       Aadya Gupta                                                  IND F                                                                       2006  w   
+25991426       Aadya Ranganath                                              IND F                                                                       2013  w   
+25903373       Aadya Sharma                                                 IND F                                                                       2007  w   
+25924362       Aadya Sinha                                                  IND F                                                                       2012  w   
+35081039       Aadya Tekurkar                                               IND F                                                                       2007  w   
+45067970       Aadya Yatin Gaitonde                                         IND F                                1098  0   40 1088  0   20              2006  wi  
+5824710        Aadya, Gulati                                                SGP F                                                                       2007  w   
+25951394       Aadyadai Shekhar                                             IND M                                                                       2009      
+5811597        Aadyagupta                                                   SGP F                                                                       2003  w   
+25076779       Aadyansh Agarwala                                            IND M                                                                       2000      
+1431692        Aae, Jesper                                                  DEN M                                1881  0   40                           1954  i   
+1544012        Aaen, Joakim Rauhala                                         NOR M                                                                       1998      
+1467263        Aaen, Leif                                                   DEN M                                1680  0   40                           1960      
+1428837        Aaes, Mads Nyeland                                           DEN M                                                                       1980      
+9322698        Aaesha Ebrahim Aljasmi                                       UAE F                                                                       2011  w   
+30922453       Aafjes, Marc                                                 USA M                                1490  0   40                           1975  i   
+1442660        Aagaard Jensen, Mads                                         DEN M                                                                       1981      
+1467417        Aagaard, Claus                                               DEN M                                                                       1972      
+1456440        Aagaard, Dennis                                              DEN M                                                                       1978      
+1437550        Aagaard, Frank                                               DEN M                                                                       1941      
+1427024        Aagaard, Gert                                                DEN M                                2037  4   20              2022  0   20 1966      
+1401815        Aagaard, Jacob                                               SCO M   GM        FST                2470  0   10 2502  0   20 2509  0   20 1973      
+1468057        Aagaard, Johan                                               DEN M                                                                       1988      
+1411802        Aagaard, Kasper                                              DEN M                                1913  0   20                           1992  i   
+1017942        Aagaard, Michael                                             NED M                                2064  2   20                           1960      
+1432451        Aagaard, Niklas Thor                                         DEN M                                                                       1993      
+1423029        Aagaard, Peter                                               DEN M                                                                       1969      
+1462806        Aagaard, William Bay                                         DEN M                                1453  0   40                           2004      
+35056557       Aagam Aditya E                                               IND M                                1726  0   40 1456  0   20 1461  0   20 2002      
+25119613       Aagam Chopra                                                 IND M                                                                       2003      
+25997157       Aagaman Pal Chowdhury                                        IND M                                                                       2009      
+46655573       Aagastya Jaipuria                                            IND M                                                                       2006      
+1406248        Aage, Bjarke Gadgaard                                        DEN M                                2052  0   20              2119  0   20 1978  i   
+1506064        Aagedal, Geir Ole                                            NOR M                                1746  2   20 1734  5   20 1652  0   20 1957      
+5082803        Aaghneye Ram                                                 IND M                                                                       1999      
+25021044       Aagney L., Narasimhan                                        IND M                                1343  0   40 1275  0   20 1279  0   20 2000  i   
+25656198       Aagney Narayanan A                                           IND M                                                                       2003      
+25116045       Aahaan Mathur                                                IND M                                                                       2012      
+25717197       Aahaan Tandon                                                IND M                                                                       2002      
+25689908       Aahan Aggrawal                                               IND M                                                                       1999      
+25693271       Aahan Gupta                                                  IND M                                                                       2008      
+25734482       Aahan Pradhan                                                IND M                                                                       2009      
+25775022       Aahan Sarin                                                  IND M                                                                       2009      
+25769251       Aahana Chatterjee                                            IND F                                                                       2010  w   
+25705342       Aahana Jain                                                  IND F                                                                       2008  w   
+10205640       Aahelee, Sarker                                              BAN F                                1720  0   20 1568  0   20              0000  wi  
+10013296       Aahil Akbar                                                  UGA M                                                                       2009      
+25088513       Aahlaad                                                      IND M                                                                       2002      
+25787047       Aahwan Hazari                                                IND M                                                                       2010      
+25768590       Aahwan Paul                                                  IND M                                1398  0   40                           2003      
+35083961       Aaina Maryam                                                 IND F                                                                       1999  w   
+25797999       Aaina Vashisht                                               IND F                                                                       2003  w   
+45007691       Aaira Dalmia                                                 IND F                                                                       2003  w   
+25978063       Aaisha A                                                     IND F                                                                       2013  w   
+7802544        Aaisha Akram                                                 PAK F                                                                       1986  w   
+25919733       Aajay Suryaa                                                 IND M                                                                       2006      
+35037374       Aakaash Ramnath S                                            IND M                                                                       1995      
+25618466       Aakaash S V                                                  IND M                                1164  0   40                           2001  i   
+25790692       Aakanksha                                                    IND F                                                                       1990  w   
+45085587       Aakanksha Anish                                              IND M                                                                       2004      
+25676377       Aakanksha Chourasia                                          IND F                                                                       2001  w   
+25014510       Aakanksha Hagawane                                           IND F   WIM  WIM                     2264  0   20 1838  0   20 2023  0   20 2000  w   
+45076812       Aakanksha M                                                  IND F                                                                       1999  w   
+45033471       Aakanksha Patel                                              IND F                                1055  3   40                           2007  w   
+46630651       Aakansh Aggarwal                                             IND M                                                                       2003      
+35041975       Aakansh Avasthi                                              IND M                                                                       2002      
+25982281       Aakansh Choudhury                                            IND M                                                                       2007      
+25930516       Aakar Vaibhav                                                IND M                                                                       2007      
+25611011       Aakarsh Anand K                                              IND M                                                                       2009      
+45056609       Aakarsh Negi                                                 IND M                                                                       2005      
+25726250       Aakarsh Pattanaik                                            IND M                                1076  0   40                           2002  i   
+25972626       Aakarsh Sohan Mendes                                         IND M                                                                       2011      
+35022253       Aakarshan                                                    IND M                                                                       2001      
+25997840       Aakarshi Jain                                                IND F                                                                       2009  w   
+46668225       Aakarshna C G                                                IND F                                1164  0   40                           2002  wi  
+5082030        Aakash                                                       IND M                                                                       1993      
+35008412       Aakash B                                                     IND M                                                                       1999      
+35062905       Aakash Bhambri                                               IND M                                                                       2002      
+25784811       Aakash Bhandari                                              IND M                                                                       2006      
+25614053       Aakash Chakravarthy                                          IND M                                                                       2002      
+25986490       Aakash Chaudhary                                             IND M                                                                       2000      
+25900366       Aakash Chauhan                                               IND M                                1256  0   40                           1998  i   
+25065432       Aakash D L                                                   IND M                                                                       2000      
+35057928       Aakash Deep Bansal                                           IND M                                                                       1993      
+25644394       Aakash G                                                     IND M                                1611  16  40                           2010      
+45024952       Aakash G                                                     IND M                                1482  0   20 1436  0   20 1351  0   20 1995      
+45084572       Aakash G Madiwalar                                           IND M                                1287  0   40                           1994      
+25936689       Aakash Gadgil                                                IND M                                                                       2010      
+25066021       Aakash Ghosh                                                 IND M                                                                       1996      
+35025295       Aakash Gupta                                                 IND M                                1364  0   40                           2001  i   
+45024960       Aakash J                                                     IND M                                                                       2000      
+25029851       Aakash Jagadeesh                                             IND M                                1076  0   40                           2003  i   
+25030388       Aakash Jain                                                  IND M                                1478  0   20              1562  0   20 1998  i   
+25905155       Aakash K A                                                   IND M                                                                       2007      
+25625420       Aakash K P                                                   IND M                                1289  0   40 1212  0   20              2006      
+25956710       Aakash Kumar Jha                                             IND M                                                                       1999      
+35094351       Aakash Kumar N                                               IND M                                                                       2001      
+45041660       Aakash Nadadur                                               IND M                                                                       2005      
+45070911       Aakash P Gayatri                                             IND M                                                                       2005      
+45032220       Aakash Poddar                                                IND M                                1206  0   40 1271  0   20 1199  0   20 2005  i   
+46695702       Aakash Rajan                                                 IND M                                1071  0   40                           2006  i   
+25110977       Aakash Rajan Shetgaonkar                                     IND M                                                                       2006      
+25688200       Aakash Ramadas                                               IND M                                                                       2005      
+25626043       Aakash Reddy R V                                             IND M                                                                       2003      
+35031325       Aakash S                                                     IND M                                                                       1998      
+35004336       Aakash S B                                                   IND M                                1221  0   40                           1998  i   
+5093511        Aakash Sarkar                                                IND M                                                                       1996      
+25033220       Aakash Sharadchandra, Dalvi                                  IND M                                2017  0   40 1699  0   20 1609  0   20 2002      
+45065004       Aakash Sudini                                                IND M                                                                       2003      
+25113003       Aakash Sunariwal                                             IND M                                                                       2002      
+25787560       Aakash Swami                                                 IND M                                1097  0   40                           2003  i   
+25988611       Aakash T B                                                   IND M                                                                       2005      
+25073850       Aakash T.R                                                   IND M                                                                       1999      
+25916866       Aakash Tiwari                                                IND M                                                                       2004      
+25082620       Aakash V                                                     IND M                                                                       1998      
+5041015        Aakash, Agarwal                                              IND M                                                                       1991      
+25076000       Aakash, Mundacatan                                           IND M                                                                       0000      
+5006686        Aakash, Sathyadeo                                            IND M                                                                       0000      
+5093295        Aakasha                                                      IND F                                1632  0   40                           2000  wi  
+45038937       Aakashdeep Singh                                             IND M                                1488  0   40                           2002      
+142727         Aakenson, Ricardo                                            ARG M                                                                       1969      
+46654020       Aakhil Althaf                                                IND M                                                                       2000      
+504599         Aakio, Seppo                                                 FIN M                                2044  1   20 2072  0   20              1954      
+46642161       Aakkash Raj Raghavan                                         IND M                                                                       2001      
+25972758       Aakriti Dubey                                                IND F                                                                       2007  w   
+25673386       Aakriti Jagwani                                              IND F                                                                       2010  w   
+25117211       Aakruti Prajapati                                            IND M                                                                       2006      
+25974106       Aakshit Marwaha                                              IND M                                                                       1991      
+22583203       Aal E Nabi, Seyed Reyhaneh                                   IRI M                                                                       2009      
+42502020       Aala Beygi, Arshiya                                          IRI M                                                                       2008      
+16700937       Aala Mohamed Naushad                                         MDV F                                                                       2006  w   
+22512306       Aala Zadeh, Kamal                                            IRI M                                1548  0   40 1541  0   20              1962  i   
+25629344       Aalaap S S                                                   IND M                                                                       2009      
+12522112       Aalaei, Amir                                                 IRI M                                                                       0000      
+42538033       Aalaei, Fatemeh                                              IRI F                                                                       1984  w   
+22507523       Aalaei, Leila                                                IRI F                                                                       1977  w   
+9002944        Aalam, Omar                                                  MAR M                                                                       2005      
+25030930       Aalap Roy                                                    IND M                                                                       2002      
+22579559       Aalazade, Maryamalsadat                                      IRI F                                                                       1995  w   
+1402315        Aalbaek, Kurt Frede Nissen                                   DEN M                                1383  0   20 1465  0   20              1944  i   
+1040260        Aalbers, Herby                                               NED M                                                                       1954      
+1024388        Aalbers, Klaas                                               NED M                                1891  0   40                           1955  i   
+1050141        Aalbers, Thijs                                               NED M                                1941  0   40                           1974  i   
+2252465        Aalbersberg Kroon, Pedro                                     ESP M                                1666  0   20                           1933      
+2218682        Aalders, Hendricus                                           ESP M                                2021  0   40                           1930  i   
+1033948        Aalders, Peter                                               NED M                                1895  0   40                           1964  i   
+32714696       Aale Taha, Taranom                                           IRI F                                1125  0   40 1062  0   20              2007  w   
+42535930       Aaletaha, Seyed Mohammadsadegh                               IRI M                                                                       2003      
+25962876       Aalhad Sachin Tadas                                          IND M                                                                       2010      
+22537724       Aali Hosseini, Mohammad Sadeq                                IRI M                                                                       1982      
+22505547       Aali Hosseini, Reza                                          IRI M                                                                       2007      
+12517690       Aali, Ali                                                    IRI M                                                                       0000      
+8106657        Aali, Jamal                                                  JOR M                                                                       0000      
+12598046       Aali, Roya Sadat                                             IRI F                                1357  0   40              1382  0   20 1990  w   
+22514597       Aaliakbarsichani, Amirhossein                                IRI M                                                                       2010      
+13800825       Aaliev, Maksat                                               KGZ M                                                                       1989      
+42591929       Aalimohammadi, Homayoun                                      IRI M                                                                       2003      
+36036315       Aaliouli, Chaib                                              FRA M                                                                       1965      
+36036323       Aaliouli, Karim                                              FRA M                                1279  0   40                           2003  i   
+36036331       Aaliouli, Sarah                                              FRA F                                                                       2005  w   
+32742169       Aalipour, Mohammadhossein                                    IRI M                                                                       2008      
+12508888       Aalivand, Mehran                                             IRI M                                                                       1977      
+22506390       Aalivand, Mohammad                                           IRI M                                                                       0000      
+42595266       Aalizadeh, Abolfazl                                          IRI M                                                                       2009      
+42534070       Aalizadeh, Mobin                                             IRI M                                             1594  0   20              2001      
+1518828        Aalmo, Alexander                                             NOR M                                1555  0   40 1548  0   20 1441  0   20 1974      
+1070657        Aalten, Evert                                                NED M                                                                       1951      
+501956         Aaltio, Erkki                                                FIN M                                2021  1   20 2093  0   20 2068  0   20 1935      
+510726         Aalto, Patrik                                                FIN M                                1912  0   40 1800  0   20 1658  0   20 2004      
+511803         Aalto, Seppo                                                 FIN M                                                                       1937      
+506885         Aalto, Timo                                                  FIN M                                1887  0   40                           1972  i   
+1712144        Aaltonen, Eero                                               SWE M                                                                       1954      
+1712292        Aaltonen, Kristian                                           SWE M                                1911  0   40                           1979  i   
+511587         Aaltonen, Veikka                                             FIN M                                                                       2004      
+511323         Aaltonen, Visa                                               FIN M                                                                       2000      
+1534416        Aaltvedt, Thomas                                             NOR M                                                                       1972      
+1553836        Aalvik, Audun                                                NOR M                                                          1459  0   20 1998      
+1553844        Aalvik, Vegard                                               NOR M                                                          1360  0   20 1966      
+12553786       Aalyasin, SeyedAli                                           IRI M                                                                       1998      
+25782886       Aaman Nawaz Shaikh                                           IND M                                                                       2007      
+10626972       Aamen, Mostafa                                               EGY M                                                                       0000      
+9319930        Aamer Saeed, Alyileili                                       UAE M                                                                       2011      
+11508809       Aamer, Hasan                                                 PLE M                                                                       2004      
+35093258       Aamey Surana                                                 IND M                                                                       2005      
+45045259       Aamil Haq                                                    IND M                                1033  0   40                           2003  i   
+7805012        Aamir Huzefa Punawala                                        PAK M                                                                       2008      
+25642618       Aamir Muhamed                                                IND M                                                                       1994      
+7804350        Aamir Sadiq Butt                                             PAK M                                                                       1980      
+45054649       Aamir Suhail Mir                                             IND M                                                                       2000      
+7803567        Aamir Yousafi                                                PAK M                                                                       1983      
+45007233       Aamir Yousuf Bhat                                            IND M                                                                       1994      
+7802625        Aamir Zahoor                                                 PAK M                                                                       1971      
+7800401        Aamir, Bashir                                                PAK M                                                                       1970      
+9978135        Aamir, J D M                                                 SRI M                                1095  0   40              1076  0   20 2006  i   
+5082048        Aamna Munjal                                                 IND F                                                                       2001  w   
+1539604        Aamodt, Audun                                                NOR M                                1343  5   40              1645  0   20 1959      
+1543679        Aamodt, Peder Marcus                                         NOR M                                1343  1   40 1431  8   20 1345  0   20 2007      
+689114         Aamoum, Najib                                                FRA M                                                                       1956      
+25651145       Aamya Gupta                                                  IND M                                                                       2004      
+7110472        Aan Edison                                                   INA M                                                                       1997      
+35029185       Aan Sikka                                                    IND M                                1899  0   40 1473  0   20 1466  0   20 2003      
+7119976        Aan, Hermawan                                                INA M                                                                       1980      
+25950134       Aanand Shekhar                                               IND M                                                                       1998      
+45004366       Aanandene M                                                  IND F                                                                       2002  w   
+46665463       Aanandha Kumar M S                                           IND M                                1493  8   20                           1990      
+25668099       Aanandkrishnan Suresh                                        IND M                                                                       2006      
+25003429       Aananth, R K                                                 IND M                                                                       1999      
+1467077        Aanas,Jorgen                                                 DEN M                                                                       1950      
+5072670        Aanav,K Shah                                                 IND M                                                                       2001      
+45013250       Aanchal Ahuja                                                IND F                                                                       2005  w   
+25620770       Aanchal Dhakar                                               IND F                                                                       2002  w   
+25660268       Aanchal Mahajan                                              IND F                                                                       2000  w   
+25965638       Aanchal Pavel                                                IND M                                                                       2005      
+25953010       Aanchal Sharma                                               IND F                                                                       2000  w   
+1504452        Aandal, Kristian                                             NOR M                                2012  0   20                           1985  i   
+1514849        Aaneby, Terje                                                NOR M                                1356  0   40 1472  5   20 1367  15  20 1942      
+1520318        Aanesen, Morten                                              NOR M                                                                       1970      
+1532758        Aanestad, David                                              NOR M                                1558  0   40                           1997  i   
+1504703        Aanestad, Knut                                               NOR M                                                                       1949      
+5743508        Aang, Min Shen Alyna                                         MAS F                                                                       2006  w   
+5744962        Aang, Min Shyn Boscue                                        MAS M                                                                       2008      
+1016105        Aangeenbrug, Hans                                            NED M                                1963  0   40                           1965  i   
+10218360       Aanhar, S. Ishraq                                            BAN M                                                                       2002      
+25984756       Aanika Anjan M A                                             IND F                                                                       2011  w   
+5077702        Aaniq Kamani                                                 IND M                                1541  0   20              1621  0   20 1995  i   
+25900676       Aanjaneya Dubey                                              IND M                                                                       2009      
+25920944       Aanjishnu Bhattacharyya                                      IND M                                                                       2011      
+26091658       Aankour, Otman                                               FRA M                                                                       1997      
+1520113        Aannestad, Ole Jorgen                                        NOR M                                1789  0   40 1809  0   20 1851  15  20 1976      
+25758250       Aans Santhosh                                                IND M                                1217  0   40                           2008      
+25683403       Aansh Basu                                                   IND M                                                                       2003      
+25024981       Aansh Gupta                                                  IND M                                1775  0   40 1682  0   20 1739  0   20 2002      
+25922491       Aansh Nandan Nerurkar                                        IND M                                                                       2012      
+25721070       Aanshita Jain                                                IND F                                                                       2004  w   
+25943618       Aanshu Jaiswara                                              IND M                                                                       2009      
+1507362        Aanstad, Magnus                                              NOR M             FA                 2023  0   20                           1956      
+5055113        Aanvi, Kanoria                                               IND M                                                                       2000      
+46647260       Aanya Agarwal                                                IND F                                1446  0   40              1615  0   20 2004  wi  
+25799762       Aanya Agrawal                                                IND F                                1155  0   40 1155  0   20              2009  w   
+45010749       Aanya Bhandari                                               IND F                                                                       2005  w   
+25742680       Aanya Chawat                                                 IND F                                1157  2   40 1173  0   20              2008  w   
+46690590       Aanya Mitra                                                  IND F                                                                       2006  w   
+25092057       Aanya Sikka                                                  IND F                                                                       1999  w   
+25787004       Aanya Sinwar                                                 IND F                                                                       2010  w   
+25796135       Aanya Upadhyay                                               IND F                                                                       2010  w   
+25946749       Aanya Vora                                                   IND F                                                                       2010  w   
+512850         Aapasuo, Oskari                                              FIN M                                                                       2001      
+503100         Aapola, Lauri                                                FIN M                                                                       1970      
+513750         Aapola, Volter                                               FIN M                                1521  10  40                           2006      
+45089663       Aaptanusheel Jain                                            IND M                                                                       2001      
+45054657       Aaqib Manzoor                                                IND M                                                                       1998      
+29910366       Aaqil, M R M                                                 SRI M                                                                       2008      
+9004459        Aarab Badr-eddine                                            MAR M                                                                       2004      
+9007024        Aarab illias                                                 MAR M                                1865  0   40                           1970  i   
+9002952        Aarab, Youssef                                               MAR M                                                                       1995      
+9011064        Aarab, Ziad                                                  MAR M                                                                       2000      
+9007849        Aarabat Mohamed                                              MAR M                                1795  0   40 1836  0   20 1811  0   20 1962  i   
+9012575        Aarabat, Ahmed Habib                                         MAR M                                                                       2008      
+35037382       Aarabhi A                                                    IND F                                                                       2001  w   
+32722419       Aarabi, Mohammad Sadra                                       IRI M                                                                       2009      
+25103628       Aaradhana S                                                  IND F                                                                       2013  w   
+25990845       Aaradhay Somani                                              IND M                                                                       2010      
+25097326       Aaradhya                                                     IND M                                                                       2002      
+25951254       Aaradhya Awasthi                                             IND F                                                                       2008  w   
+25611437       Aaradhya Chauhan                                             IND F                                1578  0   40                           2008  w   
+25946250       Aaradhya Dubey                                               IND M                                                                       2011      
+25786113       Aaradhya Jain                                                IND M                                1116  7   40                           2009      
+25120522       Aaradhya Kenjale                                             IND M                                                                       2011      
+25697137       Aaradhya Lad                                                 IND M                                                                       2009      
+25672010       Aaradhya Sharma                                              IND M                                                                       2006      
+25108867       Aaradhya Suyog Bagul                                         IND M                                                                       2013      
+25124420       Aaradhya Swapnil Kini                                        IND M                                                                       2012      
+25767739       Aaradhyaa Agiwal                                             IND F                                                                       2011  w   
+12508586       Aaraee, Fariborz                                             IRI M                                1753  0   40 1767  0   20              0000  i   
+9946276        Aarakan, J                                                   SRI M                                1028  0   40                           2005  i   
+25101056       Aaran Ghonge                                                 IND M                                                                       2008      
+25673394       Aarantha Roy                                                 IND F                                1020  0   40                           2003  wi  
+9995803        Aaranya, Ishara                                              SRI M                                                                       2004      
+25644408       Aarathi Antony A                                             IND F                                                                       2006  w   
+25924486       Aarathy M                                                    IND F                                1048  0   40                           2003  w   
+25969013       Aaratrika Rath                                               IND F                                                                       2009  w   
+35017918       Aarav Agarwal                                                IND M                                                                       2005      
+25782347       Aarav Akhil Sharma                                           IND M                                                                       2007      
+25766767       Aarav Anand                                                  IND M                                                                       2006      
+25686585       Aarav Bachhawat                                              IND M                                                                       2008      
+25131389       Aarav Baheti                                                 IND M                                                                       2012      
+25978594       Aarav Bapna                                                  IND M                                                                       2004      
+25943472       Aarav Batra                                                  IND M                                                                       2008      
+45089256       Aarav Bhandari                                               IND M                                                                       2004      
+35041983       Aarav Bhattacharya                                           IND M                            ACM 1249  7   40 1152  0   20              2006      
+25656562       Aarav Bhavin Mehta                                           IND M                                1166  14  40 1036  0   20 1068  0   20 2009      
+25957198       Aarav Chhallani                                              IND M                                                                       2012      
+45059756       Aarav Dengla                                                 IND M                                1955  0   40 1249  0   20 1296  0   20 2009      
+25905120       Aarav Dhingra                                                IND M                                                                       2008      
+25689916       Aarav G Ahuja                                                IND M                                                                       2008      
+25922858       Aarav Gupta                                                  IND M                                                                       2010      
+25948776       Aarav Gupta                                                  IND M                                                                       2003      
+25936530       Aarav Jain                                                   IND M                                                                       2006      
+46698574       Aarav K R                                                    IND M                                                                       2006      
+25789775       Aarav Kalra                                                  IND M                                                                       2010      
+25663780       Aarav Kamat                                                  IND M                                                                       2009      
+25106384       Aarav Kothari                                                IND M                                                                       2011      
+25712977       Aarav Kumar koni dena                                        IND M                                                                       2006      
+45015511       Aarav Lakhani                                                IND M                                1344  13  40 1272  0   20              2009      
+25110101       Aarav Maheshwari                                             IND M                                                                       2011      
+25784820       Aarav Makharia                                               IND M                                                                       2005      
+25997050       Aarav Manche                                                 IND M                                                                       2012      
+25742337       Aarav Manish                                                 IND M                                1069  4   40 1100  0   20              2008      
+35011618       Aarav Maru                                                   IND M                                                                       2004      
+25956183       Aarav Maurya                                                 IND M                                             1131  4   20              2009      
+25990896       Aarav Mehta                                                  IND M                                                                       2008      
+25687140       Aarav Mehta                                                  IND M                                                                       2010      
+25743031       Aarav Mehta                                                  IND M                                                                       2009      
+25933485       Aarav Modi                                                   IND M                                                                       2005      
+46630678       Aarav Mohan                                                  IND M                                                                       2003      
+25656392       Aarav Nambiar T                                              IND M                            ACM 1172  0   40 1320  0   20 1152  0   20 2010      
+25082540       Aarav Nanda                                                  IND M                                                                       2007      
+25611020       Aarav Patwa                                                  IND M                                                                       2008      
+25789627       Aarav Porwal                                                 IND M                                                                       2010      
+25791265       Aarav Rajeev Jalan                                           IND M                                                                       2006      
+25775030       Aarav Rane                                                   IND M                                1186  0   40 1195  0   20              2006      
+25971476       Aarav Rastogi                                                IND M                                                                       2011      
+25940716       Aarav Rayesh Gaonkar                                         IND M                                                                       2011      
+25120816       Aarav Rushabh Shah                                           IND M                                                                       2011      
+25781014       Aarav Saish Amonkar                                          IND M                                                                       2012      
+25611038       Aarav Samant                                                 IND M                                                                       2008      
+25743040       Aarav Shah                                                   IND M                                                                       2006      
+25912569       Aarav Sharma                                                 IND M                                                                       2010      
+25937588       Aarav Sharma                                                 IND M                                                                       2006      
+25693280       Aarav Shrivastava                                            IND M                                1145  0   40                           2008      
+25738046       Aarav Shrivastava                                            IND M                                                                       2010      
+25932667       Aarav Singh                                                  IND M                                                                       2012      
+25984683       Aarav Singla                                                 IND M                                                                       2011      
+25674064       Aarav Sinha                                                  IND M                                1231  4   40 1219  0   20              2009      
+25633317       Aarav Urgaonkar                                              IND M                                             1031  0   20              2004      
+25745298       Aarav Vasisht P                                              IND M                                                                       2012      
+5092868        Aaravsingh Jitendrasingh Rathor                              IND M                                1477  0   40 1475  0   20              1999  i   
+25991531       Aarayman Gilada                                              IND M                                                                       2010      
+5083273        Aarcha Gowri Varma                                           IND F                                                                       1995  w   
+35015664       Aarcha R S                                                   IND F                                                                       1998  w   
+25771663       Aarchit Chakravartty                                         IND M                                                                       2008      
+1010867        Aardenburg, Piet                                             NED M                                1746  0   20                           1961      
+46650164       Aardhra K                                                    IND F                                                                       2000  w   
+54140536       Aardma, Eduard                                               RUS M                                             2062  0   20              1952      
+45074097       Aardritha P S                                                IND F                                1053  0   40                           2005  w   
+4505042        Aaremaa, Henri                                               EST M                                                                       2004      
+35041487       Aarfeen Himany                                               IND M                                1318  0   40 1473  0   20 1599  0   20 1974      
+1545345        Aarflot, Einar Yngve                                         NOR M                                             1375  0   20 1033  0   20 1975      
+1545353        Aarflot, Elise                                               NOR F                                                          1138  0   20 2006  w   
+1545361        Aarflot, Magne                                               NOR M                                                                       2008      
+1547550        Aarflot, Morten                                              NOR M                                                                       1982      
+1538560        Aarhaug, Harald                                              NOR M                                                                       1963      
+25134418       Aarhin Ariben Daniels                                        IND M                                                                       2010      
+35013092       Aarhon Joshuaa A                                             IND M                                                                       1999      
+46618228       Aarib Anwar                                                  IND M                                1255  0   40                           2002  i   
+25933418       Aarika Kapoor                                                IND F                                                                       2012  w   
+25975323       Aarini Bhandari                                              IND F                                                                       2011  w   
+25124080       Aariv Kapoor                                                 IND M                                                                       2010      
+9925538        Aariyatilake, A N G Manura                                   SRI M                                                                       2005      
+10240101       Aariz, Zaman Khan                                            BAN M                                                                       2008      
+25947869       Aarizul Hoda                                                 IND M                                                                       2008      
+45013268       Aarjav Kalani                                                IND M                                                                       2008      
+25676679       Aarka Mitra                                                  IND M                                                                       2001      
+1500503        Aarland, Stein Arild                                         NOR M   FM                           2300  0   20                           1973  i   
+45087342       Aarmaan Choudhary                                            IND M                                                                       2006      
+25718266       Aarna Choubey                                                IND F                                                                       2011  w   
+45013276       Aarna Chugh                                                  IND F                                1164  0   40 1136  0   20 1132  0   20 2007  w   
+25944762       Aarna Kaushik                                                IND F                                                                       2010  w   
+45015520       Aarna Khandelwal                                             IND F                                                                       2009  w   
+25730967       Aarna Prataa U M                                             IND F                                                                       2010  w   
+25790480       Aarnav Das Vaidya                                            IND M                                                                       2010      
+25906011       Aarnav Jain                                                  IND M                                1183  0   40 1190  0   20              2007      
+25037773       Aarnav Nagariya                                              IND M                                                                       2004      
+25710532       Aarnav Pradeep                                               IND M                                                                       2006      
+25919741       Aarnav Ravishankar                                           IND M                                                                       2010      
+25712780       Aarnavi Kasturi                                              IND F                                                                       2008  w   
+1500660        Aarnes, Carl Christian                                       NOR M                                1785  11  20 1802  0   20 1796  0   20 1975      
+1530925        Aarnes, Eirik                                                NOR M                                1799  1   20 1790  0   20 1642  0   20 1995      
+46679880       Aarnish Akshay Mudgalsya                                     IND M                                                                       2003      
+1547364        Aaro, Stig Anders                                            NOR M                                1544  7   20 1578  0   20              1964      
+1527460        Aaroe, Christian                                             NOR M                                                                       1979      
+1460382        Aaroe, P E                                                   DEN M                                                                       1935      
+25965646       Aaroh A                                                      IND M                                                                       2006      
+25133489       Aarohan Pandey                                               IND M                                                                       2007      
+46612017       Aarohan Saikia                                               IND M                                1397  0   40                           2005      
+25648349       Aarohi Bhanuj Chowdhary                                      IND M                                                                       2003      
+45015538       Aarohi Chitkara                                              IND F                                                                       2009  w   
+25072927       Aarohi Dabholkar                                             IND F                                1111  0   40                           2003  w   
+25919300       Aarohi Deshmukh                                              IND F                                                                       2009  w   
+45056617       Aarohi Jain                                                  IND F                                                                       2007  w   
+25742698       Aarohi Murdia                                                IND F                                                                       2009  w   
+46619402       Aarohon Bharadwaj                                            IND M                                1604  0   40                           2002      
+45027501       Aaromal B S                                                  IND M                                                                       2006      
+35015672       Aaromal R S                                                  IND M                            AIM 1513  8   40                           2002      
+25624199       Aaromal S                                                    IND M                                                                       2005      
+25770500       Aaron Bhuimali                                               IND M                                1061  0   40                           2011      
+46651446       Aaron Ghosh                                                  IND M                                             1275  0   20              2002      
+25662015       Aaron Ginny Panikulam                                        IND M                                1114  0   40                           2005  i   
+25652583       Aaron Joel N                                                 IND M                                1165  0   40                           2006  i   
+8505861        AARON KAJANG ZAMANI                                          NGR M                                                                       1976      
+35058657       Aaron Kumar                                                  IND M                                             1170  0   20              2001      
+45032602       Aaron M                                                      IND M                                                                       2002      
+25624202       Aaron Oommen                                                 IND M                                                                       2001      
+25933310       Aaron Pradeep                                                IND M                                                                       2009      
+35094157       Aaron Pushparaj Michaelraj                                   IND M                                1148  0   40                           2004      
+25931091       Aaron Sanju Thomas                                           IND M                                1482  0   40                           2007      
+10011463       Aaron Ssozi                                                  UGA M                                                                       2011      
+4448456        Aaron Ustate, Amaury Fernando                                COL M                                                                       1997      
+46634649       Aaron Zechariah H                                            IND M                                                                       2004      
+2895027        Aaron, Alexander                                             ITA M                                                                       2010      
+25015230       Aaron, Aryan Fernandes                                       IND M                                1150  0   40                           2001  i   
+2025949        Aaron, Ashok                                                 USA M                                                                       1965      
+2009412        Aaron, Deepak                                                USA M                                2315  3   20                           1994      
+2062844        Aaron, Dilip                                                 USA M                                                                       1997      
+3228002        Aaron, Ernie                                                 AUS M                                                                       1940      
+35041088       Aaron, Jacob George                                          IND M                                                                       2001      
+5000092        Aaron, Manuel                                                IND M   IM        IA                 2315  0   20                           1935  i   
+4448464        Aaron, Misael                                                COL M                                                                       1985      
+411744         Aarons, Poppy J                                              ENG F                                1862  0   20                           1989  wi  
+5039991        Aaroshi, Bansal                                              IND M                                                                       0000      
+25100530       Aarsh Bagda                                                  IND M                                1281  11  40                           2004      
+45015546       Aarsh Roongta                                                IND M                                0     0                                2007      
+25108450       Aarsh Sharma                                                 IND M                                                                       2009      
+35059017       Aarsha Sharma                                                IND M                                                                       2007      
+46650709       Aarshabh Gupta                                               IND M                                                                       1997      
+8709610        Aarshbir Singh Bhatia                                        ZAM M                                                                       2008      
+1509179        Aarsheim, Geir-Arne                                          NOR M                                1539  0   40 1630  3   20 1495  0   20 1985      
+25950100       Aarshi                                                       IND F                                                                       2002  w   
+46650172       Aarshidha K                                                  IND F                                1049  0   40                           2004  wi  
+25906615       Aarshiya                                                     IND M                                                                       2009      
+25673408       Aarshiya Biswas                                              IND F                                1258  0   40 1259  0   20              2007  w   
+25984918       Aarshiya Chaudhary                                           IND F                                                                       2012  w   
+25000802       Aarshvir, Singh                                              IND M                                                                       1997      
+1537075        Aarstad, Jorgen                                              NOR M                                             1742  0   20 1703  0   20 1995      
+1505297        Aarstad, Olav                                                NOR M                                                                       1974      
+1505300        Aarstad, Tron                                                NOR M                                1864  5   40 1840  0   20 1622  0   20 1974      
+1543342        Aarsvold, Espen                                              NOR M                                1284  0   40                           1974      
+1060660        Aarten, Marjolein                                            NED F                                1517  0   40                           1981  w   
+25127837       Aarth Siddhesh Shenvi Karapurkar                             IND M                                                                       2010      
+5059100        Aarthi G                                                     IND F                                1795  0   20 1780  0   20 1833  0   20 1997  wi  
+25963260       Aarthi G                                                     IND F                                                                       2006  w   
+25100211       Aarthi P                                                     IND F                                                                       2006  w   
+25775618       Aarthi S                                                     IND F                                                                       2003  w   
+35085115       Aarthi S                                                     IND F                                                                       2000  w   
+46622780       Aarthi S B                                                   IND F                                                                       2003  w   
+25043196       Aarthi V                                                     IND F                                1403  0   40                           2000  wi  
+5099447        Aarthi V S                                                   IND M                                                                       1996      
+5032709        Aarthi, A                                                    IND F                                                                       1993  w   
+5033110        Aarthi, Lakhsmi E.K.A.                                       IND M                                1953  0   40                           1989  i   
+5090865        Aarthi, V                                                    IND M                                                                       1995      
+5063493        Aarthiraj.r                                                  IND M                                                                       0000      
+1504720        Aarthun, Rune                                                NOR M                                1842  0   40                           1960  i   
+5080584        Aarthy, Sri S                                                IND F                                1689  0   20                           1994  wi  
+5088259        Aarti Chawla                                                 IND F                                                                       1986  w   
+25660721       Aarti Prashant Trikannad                                     IND F                                                                       1995  w   
+11201975       Aarti, Rangarajan                                            BRN M                                                                       0000      
+1024396        Aarts, Rob                                                   NED M                                2133  1   20                           1982      
+2601893        Aartsen, Keith                                               CAN M                                                                       0000      
+1504738        Aartun, Eivind                                               NOR M                                1817  0   20 1817  0   20 1806  0   20 1996  i   
+1504711        Aartun, Magnus                                               NOR M                                1787  0   20              1819  0   20 1993  i   
+5083125        Aarudhra Ganesh                                              IND F                                1684  0   20                           1996  wi  
+25118080       Aarush Abhijit Shenai                                        IND M                                                                       2010      
+25798715       Aarush Agrawal                                               IND M                                                                       2008      
+35025147       Aarush Akshit                                                IND M                                                                       2007      
+25798154       Aarush Amlan                                                 IND M                                                                       2007      
+25775049       Aarush Arun Urs                                              IND M                                                                       2008      
+25779745       Aarush Bharadwaj                                             IND M                                                                       2003      
+25975374       Aarush Bhargava                                              IND M                                                                       2009      
+45073287       Aarush Bharti                                                IND M                                                                       2010      
+45012318       Aarush Bhattacharyya                                         IND M                                             1158  0   20              2005      
+25682946       Aarush Bynam                                                 IND M                                                                       2009      
+25971654       Aarush Chakraborty                                           IND M                                                                       2009      
+25721089       Aarush Dhawan                                                IND M                                                                       2008      
+45067988       Aarush Fatarpekar                                            IND M                                                                       2009      
+25999150       Aarush Garg                                                  IND M                                                                       2007      
+25912003       Aarush Ghosh                                                 IND M                                1130  6   40                           2008      
+25766775       Aarush Goel                                                  IND M                                                                       2007      
+45077959       Aarush Gupta                                                 IND M                                1609  0   40 1603  0   20 1231  0   20 2004      
+25925873       Aarush Gupta                                                 IND M                                                                       2007      
+25633104       Aarush Joshi                                                 IND M                                                                       2007      
+25991043       Aarush Khandelwal                                            IND M                                                                       2012      
+25718860       Aarush Mohan                                                 IND M                                                                       2006      
+45013705       Aarush P L                                                   IND M                                                                       2005      
+45075026       Aarush Pandey                                                IND M                                             1136  0   20              2008      
+45033684       Aarush Patel                                                 IND M                                1029  3   40 1120  0   20              2007      
+25901885       Aarush Piyush Nagori                                         IND M                                                                       2010      
+25689924       Aarush Rajesh                                                IND M                                1050  7   40                           2010      
+25782894       Aarush Raju Mahthena                                         IND M                                                                       2006      
+25984373       Aarush Reddy V                                               IND M                                                                       2009      
+25699598       Aarush Roy                                                   IND M                                1115  0   40                           2006  i   
+25699237       Aarush S Gowda                                               IND M                                                                       2011      
+25603507       Aarush S Iyengar                                             IND M                                                                       2008      
+45091366       Aarush Saxena                                                IND F                                             1192  0   20 1275  0   20 2008  w   
+46624430       Aarush Shah                                                  IND M                                1177  0   40                           2008  i   
+25969978       Aarush Shannon Mendes                                        IND M                                                                       2012      
+25941747       Aarush Sharma                                                IND M                                                                       2011      
+25124560       Aarush Singhai                                               IND M                                                                       2013      
+25973479       Aarush Sinha                                                 IND M                                                                       2011      
+25682954       Aarush Sreenath                                              IND M                                                                       2009      
+12601756       Aarush Thakker                                               GHA M                                                                       2008      
+25660276       Aarush Uday Khanna                                           IND M                            AFM 1331  0   40                           2007      
+25781723       Aarush Verma                                                 IND M                                                                       2008      
+25938525       Aarush Vishal Vasu                                           IND M                                                                       2008      
+25965484       Aarush Vuppugandla                                           IND M                                                                       2007      
+5821363        Aarush, Hari Krishna Babu                                    SGP M                                                                       2009      
+25134442       Aarushi                                                      IND F                                                                       2005  w   
+35092278       Aarushi Chatterjee                                           IND F                            AFM 1041  0   40                           2006  wi  
+25637592       Aarushi Garg                                                 IND F                                                                       2006  w   
+25614711       Aarushi Mittal                                               IND F                                                                       2003  w   
+46621415       Aarushi Prashanth                                            IND F                                1255  0   40              1218  0   20 2003  wi  
+25798987       Aarushi Srivastava                                           IND F                                                                       2006  w   
+5083907        Aarushya S                                                   IND F                                                                       2000  w   
+45022216       Aarushyusuf                                                  IND M                                                                       2007      
+45056625       Aarusi Yaday                                                 IND F                                                                       1999  w   
+12524689       Aarvan, Amirhossein                                          IRI M                                                                       0000      
+35075896       Aarvi Jain                                                   IND F                                1150  0   40 1030  0   20              2006  w   
+1532626        Aarvik, Ole Jorgen                                           NOR M                                             1348  0   20              1982      
+1534378        Aarvik-Hansen, Havard                                        NOR M                                1566  0   20 1478  0   20 1556  0   20 1999      
+25104756       Aary                                                         IND M                                                                       2006      
+25911945       Aary Amol Potnis                                             IND M                                                                       2006      
+25662198       Aarya Agarwal                                                IND M                                                                       2007      
+45086010       Aarya Agrawal                                                IND M                                                                       2006      
+46642668       Aarya Desai                                                  IND M                                                                       2004      
+25913204       Aarya G                                                      IND M                                                                       2009      
+25917790       Aarya Gupta                                                  IND M                                                                       2008      
+25784838       Aarya Khandelwal                                             IND F                                1038  0   40                           2004  w   
+25135155       Aarya Kotian                                                 IND M                                                                       2007      
+46660895       Aarya P Ganapathy                                            IND M                                                                       2002      
+25611445       Aarya Pareek                                                 IND F                                                                       2008  w   
+45050996       Aarya Redkar                                                 IND F                                                                       2003  w   
+25703439       Aarya Satish Chikodi                                         IND M                                1203  4   40 1139  0   20              2010      
+25973487       Aarya Sau                                                    IND M                                                                       2013      
+25764829       Aarya Shah                                                   IND M                                1125  3   40                           2005      
+25900862       Aarya Siddhant Mishra                                        IND M                                                                       2004      
+25900870       Aarya Siddharth Mishra                                       IND M                                                                       2004      
+25909371       Aarya Sujan Sukri J                                          IND M                                                                       2012      
+25928880       Aarya Sunil Utekar                                           IND F                                                                       2006  w   
+45033692       Aarya Vardhan Agarwala                                       IND M                                                                       2008      
+46622543       Aaryamann Nair                                               IND M                                                                       2005      
+35025155       Aaryan Agarwal                                               IND M                                                                       2003      
+25951637       Aaryan Agarwal                                               IND M                                                                       2005      
+25132423       Aaryan Anil Gawas                                            IND M                                                                       2008      
+25602381       Aaryan Arolkar                                               IND M                                1107  0   40                           2006  i   
+25951297       Aaryan Bag                                                   IND M                                                                       2010      
+25901273       Aaryan Balaji Rao                                            IND M                                1095  6   40                           2010      
+35062913       Aaryan Bansal                                                IND M                                                                       2003      
+35081152       Aaryan Bhutani                                               IND M                                1283  0   40                           2003  i   
+25636987       Aaryan Dishanak Gandhi                                       IND M                                                                       2003      
+5753910        Aaryan Emir Helmi                                            MAS M                                                                       2007      
+25721097       Aaryan Goklaney                                              IND M                                                                       2006      
+25693298       Aaryan Gupta                                                 IND M                                                                       2009      
+25948423       Aaryan K Rathan                                              IND M                                                                       2008      
+45007705       Aaryan Krish Malhotra                                        IND M                                                                       2002      
+45008965       Aaryan L Sudhakar                                            IND M                                                                       2006      
+25787837       Aaryan Meena                                                 IND M                                                                       2008      
+45047502       Aaryan Pandey                                                IND M                                1217  0   40                           2009      
+46696954       Aaryan Punia                                                 IND M                                                                       2003      
+46691359       Aaryan Ralhan                                                IND M                                                                       2002      
+25705261       Aaryan Rao                                                   IND M                                                                       2006      
+25033239       Aaryan S Phadke                                              IND M                                                                       2002      
+35079166       Aaryan S Shah                                                IND M                                                                       2000      
+25955055       Aaryan Sandeep Gajbhiye                                      IND M                                                                       2006      
+45010919       Aaryan Shah                                                  IND M                                1231  0   40                           2005  i   
+25760106       Aaryan Sharma                                                IND M                                1134  0   40                           2007      
+35070894       Aaryan Singh                                                 IND M                                1250  0   40                           2006  i   
+25908200       Aaryan Singh                                                 IND M                                                                       2004      
+25672029       Aaryan Srivastava                                            IND M                                                                       2000      
+46639489       Aaryan Subramaniam                                           IND M                                                                       2005      
+45048975       Aaryan Varshney                                              IND M   FM                           2200  0   20 1623  0   20              2005      
+25916149       Aaryan Vinay Agarwal                                         IND M                                                                       2007      
+25948431       Aaryan Vinod                                                 IND M                                1058  0   40                           2006      
+5823170        Aaryan, Kumar Khairha                                        SGP M                                                                       2006      
+46647350       Aaryansh Bhartiya                                            IND M                                1475  0   40              1345  0   20 2004      
+25784846       Aaryav Byadwal                                               IND M                                                                       2008      
+25720708       Aaryaveer Agarwal                                            IND M                                                                       2011      
+46618236       Aaryendra Chhabra                                            IND M                                1332  0   40                           2001  i   
+25993160       Aaryn Rudrapati                                              IND M                                                                       2011      
+25991540       Aarzoo Rawat                                                 IND M                                                                       2005      
+25742345       Aarzu Kedia                                                  IND F                                                                       2003  w   
+1500678        Aas, Finn Henrik                                             NOR M                                1803  0   20 1796  0   20 1743  0   20 1960  i   
+1515012        Aas, Flemming                                                NOR M                                1510  0   40                           1996  i   
+1551850        Aas, Hallvard                                                NOR M                                                          1252  0   20 1975      
+1551710        Aas, Mathias Emanuel                                         NOR M                                                                       2005      
+1514539        Aas, Rune Oistein                                            NOR M                                1806  0   20 1797  0   20 1983  0   20 1988      
+35001302       Aasa Deepika Kuditipudi                                      IND F                                1401  0   20 1517  0   20 1464  0   20 1997  wi  
+4507851        Aasa, Kristjan                                               EST M                                                                       2007      
+4502779        Aasa, Rein                                                   EST M                                                                       1947      
+1521969        Aasand, Simen                                                NOR M                                                                       1999      
+1502646        Aase, Olav Idar                                              NOR M                                1794  2   40                           1956      
+1504762        Aase, Ole V.                                                 NOR M                                                                       1995      
+1542400        Aasen, Alexander                                             NOR M                                1310  0   40 1380  0   20 1194  0   20 2010      
+1539060        Aasen, Fredrik                                               NOR M                                1735  3   40 1594  4   20 1516  0   20 2007      
+1539078        Aasen, Joakim                                                NOR M                                1636  4   40 1531  3   20 1644  0   20 2007      
+1539027        Aasen, Kjetil Myrlid                                         NOR M                                1857  0   20 1719  0   20 1605  0   20 1975      
+1511734        Aasen, Oddvar                                                NOR M                                1446  0   20 1467  0   20 1487  0   20 1942      
+1524194        Aasestad, Tor Erik                                           NOR M                                                                       1998      
+1547445        Aasgaard, Eirin                                              NOR F                                                                       2005  w   
+1519980        Aasgaard, Frode                                              NOR M                                1854  1   20 1825  0   20              1974      
+1519999        Aasgaard, Kenneth                                            NOR M                                1506  1   20 1499  0   20              1954      
+5086990        Aasha C R                                                    IND F                                1571  7   20 1518  0   20 1515  0   20 1997  w   
+10805451       Aasha Manns                                                  KEN F                                                                       2002  w   
+25129988       Aashay Doshi                                                 IND M                                                                       2008      
+5082056        Aashay Pinkesh Mehta                                         IND M                                                                       1997      
+25933337       Aashay R Kher                                                IND M                                1108  2   40 1038  0   20              2003      
+46694455       Aashi Agarwal                                                IND F                                1041  0   40                           2006  w   
+25032887       Aashi Jain                                                   IND F                                                                       1998  w   
+25102362       Aashi Keya                                                   IND F                                                                       2011  w   
+25620789       Aashi Upadhyay                                               IND F                                1157  5   40                           2008  w   
+25730975       Aashik R V                                                   IND M                                1248  0   40                           2004      
+46625992       Aashika Prakash                                              IND F                                                                       2003  w   
+46637273       Aashin S S                                                   IND M                                1217  0   40                           1999  i   
+45056633       Aashir Tyagi                                                 IND M                                                                       2003      
+45016887       Aashish Choudhary                                            IND M                                1670  0   20                           1998      
+35041991       Aashish Kapoor                                               IND M                                1499  0   40 1466  0   20              1997      
+25618474       Aashish Kumar                                                IND M                                                                       2003      
+25978071       Aashish M                                                    IND M                                                                       2006      
+35021486       Aashish Malik                                                IND M                                                                       1999      
+25683985       Aashish Niranjan B                                           IND M                                1382  6   40 1069  0   20              2005      
+46651454       Aashish P                                                    IND M                                1643  0   20                           1995  i   
+46648380       Aashish Payal                                                IND M                                1302  0   20                           1976  i   
+25709046       Aashish R S                                                  IND M                                                                       2005      
+25796380       Aashish Rampal                                               IND M                                                                       2003      
+25999109       Aashish Ranjan                                               IND M                                             1352  0   20              1988      
+35055046       Aashish S                                                    IND M                                                                       2000      
+25741322       Aashish Singh                                                IND M                                                                       1991      
+25997432       Aashita Garg                                                 IND F                                1066  0   40                           2005  w   
+25728199       Aashita Sethi                                                IND F                                                                       2004  w   
+25686593       Aashman Agarwal                                              IND M                                                                       2007      
+45022500       Aashman Gupta                                                IND M                                1678  7   40 1672  0   20              2008      
+35078429       Aashna Agarwal                                               IND F                                                                       1996  w   
+25651161       Aashna Jagdev                                                IND F                                                                       2005  w   
+25025660       Aashna Khan                                                  IND F                                1376  0   40                           1996  wi  
+35020129       Aashray, Gupta                                               IND M                                                                       2002      
+35078453       Aashreya Kodesia                                             IND F                                                                       2001  w   
+25994891       Aashrita Balaji Guttula                                      IND F                                                                       2011  w   
+25752383       Aashrita Devaragatla                                         IND F                                                                       2009  w   
+25924869       Aashrita Narayan                                             IND F                                1238  0   40                           2006  w   
+25948350       Aashrith Koppolu                                             IND M                                                                       2011      
+35083767       Aashrith Kumar C                                             IND M                                                                       1992      
+25623583       Aashrith Ram                                                 IND M                                1078  0   40                           2003  i   
+25656058       Aashrith V V                                                 IND M                                                                       2004      
+25656090       Aashritha Mulkalapally                                       IND F                                1090  0   40                           2005  wi  
+25686607       Aashrut Almal                                                IND M                                                                       2008      
+25991558       Aashta Agarwal                                               IND F                                                                       2002  w   
+25642677       Aashuthosh S Sharma                                          IND M                                1206  0   40 1202  0   20              2005  i   
+45040869       Aashutosh Agarwal                                            IND M                                                                       2006      
+45067996       Aashutosh Dhawlikar                                          IND M                                                                       2004      
+25100190       Aashutosh Joshi                                              IND M                                             1257  0   20              2003      
+25965344       Aashutosh Krushnakumar Sapkal                                IND M                                                                       2003      
+25900196       Aashutosh Pradeep Kunde                                      IND M                                                                       2009      
+25134027       Aashutosh Shukla                                             IND M                                                                       1982      
+45041679       Aashutosh Swami                                              IND M                                                                       2000      
+25941798       Aashvath Gupta                                               IND M                                                                       2008      
+1408941        Aaskov, Jorgen                                               DEN M                                2002  1   20                           1939      
+4513398        Aasma, Sander                                                EST M                                                                       2008      
+4512634        Aasma, Sten Andreas                                          EST M                                             1279  0   20              2007      
+46623922       Aasrithvatsal, P                                             IND M                                                                       0000      
+9005994        Aassim, Abdelhadi                                            MAR M                                2115  0   40                           1990  i   
+25761137       Aasta Joy                                                    IND F                                1356  0   40                           2005  w   
+25764640       Aastha Kapoor                                                IND F                                1192  0   40                           2003  wi  
+45068003       Aastha Komarpant                                             IND F                                                                       2005  w   
+25638572       Aastha Nayak                                                 IND M                                                                       2002      
+25795465       Aastha Prasher                                               IND F                                1010  0   40                           2002  wi  
+46693084       Aastha Rani Bhuyan                                           IND F                                                                       2006  w   
+25061658       Aastha Satyadeo                                              IND F                                                                       1996  w   
+45089671       Aastha Singh                                                 IND F                                                                       2003  w   
+25956841       Aastha Turankar                                              IND F                                1162  8   40                           2008  w   
+25616870       Aastha Verma                                                 IND F                                                                       2003  w   
+25092065       Aastik Khandewal                                             IND M                                1275  0   40                           2004  i   
+1452835        Aastrup, Daniel Falhof                                       DEN M                                1699  0   40                           1994  i   
+1501607        Aasum, Anker                                                 NOR M                                1862  0   20                           1940  i   
+25775057       Aasvi Kedia                                                  IND F                                                                       2008  w   
+9970681        Aathavan, N                                                  SRI M                                1167  0   40                           2000  i   
+5045924        Aathayam, V                                                  IND M                                1831  0   40                           1974  i   
+25948440       Aathi Pragatha                                               IND F                                                                       2010  w   
+25948458       Aathi Samithra B                                             IND F                                                                       2008  w   
+25932616       Aathidyan E R S                                              IND M                                                                       2007      
+29931126       Aathif, K R                                                  SRI M                                                                       2011      
+45099979       Aathikesh K                                                  IND M                                                                       2005      
+45016380       Aathira M G                                                  IND F                                                                       2000  w   
+45044066       Aathish B Shetty                                             IND M                                1342  0   40                           2006      
+25763385       Aathish biju                                                 IND M                                                                       2006      
+25779753       Aathithya M                                                  IND M                                                                       2007      
+29922267       Aathithya, Ananth                                            SRI M                                                                       2006      
+25625438       Aathithyan A                                                 IND M                                1034  0   40                           2007  i   
+25730983       Aathmika P S                                                 IND F                                                                       2007  w   
+25982184       Aathrey Dixit                                                IND M                                                                       2006      
+25078810       Aathreya Sastry B                                            IND M                                1299  0   40                           1986  i   
+45060835       Aathul Krishnan U                                            IND M                                                                       2000      
+5045568        Aatirah, C P                                                 IND F                                1911  0   20                           1992  wi  
+25967649       Aatish Selvam T                                              IND M                                                                       2010      
+25100254       Aatmaj Sharma                                                IND M                                                                       2009      
+25124455       Aatmaj Virendra Jahagirdar                                   IND M                                                                       2013      
+25914871       Aatmik Jain                                                  IND M                                                                       1999      
+25973355       Aatmika Paira                                                IND F                                                                       2010  w   
+35025163       Aatmodhee Goswami                                            IND M                                                                       2005      
+25631357       Aatote Hrushikesh                                            IND M                                                                       2003      
+46610669       Aatram Mahendra                                              IND M                                                                       1979      
+25768603       Aatreya Saha                                                 IND M                                                                       2009      
+9005196        AATTAR YASSINE                                               MAR M                                                                       2006      
+9003002        Aattar, Ikram                                                MAR F                                1407  0   40 1447  0   20 1373  0   20 2001  w   
+4503589        Aav, Kristo                                                  EST M                                                                       0000      
+35011626       Aavardhan L                                                  IND M                                                                       2004      
+25134450       Aaveer Singh Birah                                           IND M                                                                       2009      
+1530933        Aavik, Jakob                                                 NOR M                                1864  0   20 1796  0   20 1757  0   20 1995  i   
+1533959        Aavik, Sebastian Tomter                                      NOR M                                1683  0   40 1714  0   20 1792  0   20 1995      
+25914308       Aavula Eswar Kailash                                         IND M                                                                       2007      
+2829010        Aawid, Belig                                                 ISR M                                             1845  0   20              2000      
+25641395       Aayam Bansal                                                 IND M                                                                       2007      
+25910892       Aayan Deshpande                                              IND M                                                                       2008      
+45000727       Aayan Iqbal Hazarika                                         IND M                                1060  0   40                           2004  i   
+25651277       Aayan Jagdev                                                 IND M                                                                       2010      
+10235647       Aayan, Kamal                                                 BAN M                                                                       2013      
+25131559       Aayansh Burman                                               IND M                                                                       2014      
+10653325       Aayed, Abdel Khalek                                          EGY M                                1561  0   40                           1967      
+45001120       Aayisha Vafika A                                             IND F                                                                       2003  w   
+25737554       Aaysha Shanawas                                              IND F                                             1141  0   20              1997  w   
+25689169       Aayur Verma                                                  IND M                                                                       1996      
+35017926       Aayush Agarwal                                               IND M                                1530  0   40                           2000      
+25614797       Aayush Agrawal (2003)                                        IND M                                1114  0   40                           2003      
+25703552       Aayush B                                                     IND M                                                                       2009      
+35029070       Aayush Bhattacherjee                                         IND M                            AIM 1532  11  40 1194  0   20 1278  0   20 2007      
+25944371       Aayush Bhojak                                                IND M                                1259  0   40                           2009      
+45044171       Aayush Boloor                                                IND M                                1211  0   40 1197  0   20              2005      
+46682201       Aayush Chadha                                                IND M                                1206  0   40 1297  0   20 1203  0   20 1998  i   
+25780034       Aayush Dhareshwar                                            IND M                                                                       2007      
+45056641       Aayush Gupta                                                 IND M                                                                       1992      
+25910442       Aayush K P                                                   IND M                                                                       2008      
+35078828       Aayush K Safi                                                IND M                                1219  0   40                           2000      
+25919520       Aayush Kabra                                                 IND M                                                                       2008      
+35010344       Aayush Kapoor                                                IND M                                                                       2001      
+25942646       Aayush Kumar Sadram                                          IND M                                                                       1998      
+25721100       Aayush Manro                                                 IND M                                                                       2004      
+25784854       Aayush Mishra                                                IND M                                                                       2008      
+35007122       Aayush Pinakin Barot                                         IND M                                1361  0   40                           2005  i   
+45005532       Aayush Prabhu                                                IND M                                1305  0   40                           2003  i   
+25674072       Aayush Raj                                                   IND M                                                                       2005      
+25072722       Aayush Raj Kapoor                                            IND M                                                                       2004      
+25986074       Aayush Raman                                                 IND M                                                                       2003      
+25915428       Aayush S Rao                                                 IND M                                                                       2007      
+5084318        Aayush Sahay                                                 IND M                                                                       1999      
+25133551       Aayush Sahu                                                  IND M                                                                       2010      
+25918850       Aayush Selukar                                               IND M                                                                       2011      
+25799770       Aayush Sharma                                                IND M                                1280  0   40                           1995      
+46603727       Aayush Sharma                                                IND M                                                                       1998      
+45010927       Aayush Sheetal                                               IND M                                                                       2006      
+25651366       Aayush Shrishrimal                                           IND M                                                                       2001      
+25607430       Aayush Singh                                                 IND M                                                                       2009      
